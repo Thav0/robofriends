@@ -14,8 +14,6 @@ In this project I've learned the basics of react <br/>
 - Handling Events <br />
 - Create react app through CLI <br />
 
-<br/>
-<br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
