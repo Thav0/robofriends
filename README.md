@@ -2,11 +2,13 @@
 
 In this project I've learned the basics of react <br/>
 
+- One way data fllow <br />
 - Virtual DOM <br />
 - React Lifecycle <br />
 - Jsx <br />
 - Funcional vs Class Components <br />
 - Components <br />
+  . State <br />
   . Props <br />
   . Children <br />
   . Async/Await <br />
