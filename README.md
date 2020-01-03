@@ -2,7 +2,7 @@
 
 In this project I've learned the basics of react <br/>
 
-- Virtual DOM <br/ >
+- Virtual DOM <br />
 - React Lifecycle <br />
 - Jsx <br />
 - Funcional vs Class Components <br />
