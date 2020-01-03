@@ -16,6 +16,8 @@ In this project I've learned the basics of react <br/>
 - Handling Events <br />
 - Create react app through CLI <br />
 
+Course - [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
